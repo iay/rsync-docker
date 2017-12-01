@@ -2,6 +2,7 @@
 
 Docker image derived from `alpine`, providing rsync and related tools.
 
+* `git`
 * `rsync`
 * The `ssh` client (but not the server)
 * `ssh-agent`

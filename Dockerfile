@@ -15,6 +15,7 @@ LABEL maintainer "ian@iay.org.uk"
 #
 RUN apk add --no-cache \
 	bash \
+	git \
 	openssh-client \
 	rsync
 
